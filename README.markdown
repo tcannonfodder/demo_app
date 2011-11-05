@@ -1,0 +1,1 @@
+The demo application for the RoR Tutorials. Using scaffolding to show us what pain feels like.
